@@ -1,0 +1,19 @@
+data:
+  slice_start: 79
+  slice_end: 99
+  image_size: 225
+  patch_size: 56
+  patch_stride: 42
+  raw_label_mapping:
+    AD: 0
+    CN: 1
+    MCI: 2
+split:
+  seed: 42
+  val_size: 0.15
+  test_size: 0.15
+  n_folds: 5
+  grouping: subject_id
+  stratification: subject_label
+  selection_metric: val_acc
+  test_used_for_checkpoint_selection: false

@@ -1,0 +1,11 @@
+{
+  "n_rows": 36,
+  "n_subjects": 18,
+  "seed": 42,
+  "raw_label_mapping": {
+    "0": "AD",
+    "1": "CN",
+    "2": "MCI"
+  },
+  "subject_disjoint": true
+}

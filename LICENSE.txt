@@ -1,0 +1,5 @@
+This package contains original code and synthetic example data prepared for
+research reproducibility. It does not grant access to ADNI data.
+
+ADNI images and derived participant-identifying data remain subject to the
+ADNI Data Use Agreement and any applicable institutional restrictions.
